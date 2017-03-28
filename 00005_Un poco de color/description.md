@@ -1,4 +1,4 @@
-¡Genial! Si ves nuestra página es funcional pero no es muy linda, ¡ni siquiera está diferenciado el título del texto!.
+Si ves nuestra página es funcional pero no es muy linda, ¡ni siquiera está diferenciado el título del texto!.
 Vamos a solucionar esto usando un nuevo tag “H”, el tag “H” puede recibir 6 valores. h1 será el texto más grande y h6 el más chico.
 Ponle h1 a “la ballena azul” y h4 a el lorem ipsum.
 
