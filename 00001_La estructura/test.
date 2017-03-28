@@ -1,5 +1,4 @@
 ignore_whitespace: true
 ignore_case: true
 equal: | 
-  <head></head>
-  <body></body>
+  <head></head><body></body>
