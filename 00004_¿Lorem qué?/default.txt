@@ -1,0 +1,6 @@
+<head>
+<title>Mi primer sitio</title>
+</head>
+<body>
+La ballena azul
+</body>
