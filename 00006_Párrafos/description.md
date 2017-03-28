@@ -13,6 +13,6 @@ Y para cambiar el color y la fuente (el tipo de letra) usaremos la etiqueta `fon
 <font color=”red” face=”Tahoma”> Otro texto </font>
 ```
 
-Los atributos no se cierran, solo el tag principal, o sea en este caso font. 
+Los atributos no se cierran, solo el tag principal, o sea en este caso `font`. 
 
 > Proba agregar esa linea a nuestro codigo abajo del lorem ipsum
