@@ -2,3 +2,5 @@ equal: '<head>
 </head>
 <body>
 </body>'
+ignore_whitespace: true
+ignore_case: true
