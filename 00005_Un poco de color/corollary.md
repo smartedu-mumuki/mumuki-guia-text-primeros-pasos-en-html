@@ -1,1 +1,1 @@
-¡Perfecto! Ya vimos algunos conceptos básicos para estructurar nuestra página. Veamos algunas etiquetas más y atributos.
+¡Perfecto! Ya vimos algunos conceptos básicos para estructurar nuestra página. Veamos algunas etiquetas y atributos más.
