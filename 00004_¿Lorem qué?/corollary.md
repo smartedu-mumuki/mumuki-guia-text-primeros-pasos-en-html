@@ -1,1 +1,4 @@
-¡Genial! Pero esta página está quedando un poco gris y aburrida. ¿Podríamos hacer algo para mejorarla? 
+Ughh.. :confounded: ¡Está todo junto! 
+
+Veamos cómo separar las partes de nuestra página. 
+
