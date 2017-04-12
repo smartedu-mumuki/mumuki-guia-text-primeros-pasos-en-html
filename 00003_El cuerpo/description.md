@@ -1,4 +1,4 @@
-El `titlte` **siempre** va dentro del `head`: 
+El `title` **siempre** va dentro del `head`: 
 
 ```html
 <head>
