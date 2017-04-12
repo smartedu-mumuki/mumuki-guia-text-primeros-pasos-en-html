@@ -18,7 +18,7 @@ Aunque [https://mumuki.io](https://mumuki.io) es un una gran página (¿o noooo?
 
 <input width="50%" type="button"  class="btn btn-success" value="Un botón"></input>
 
-> ¿Reconocés a éstos elementos? ¡Buscalos en la página! 
-
-
-
+> ¿Reconocés a éstos elementos? ¡Buscalos en la página!
+>
+> Y cuando termines, contanos cual de las siguientes respuestas son verdaderas: 
+> 
