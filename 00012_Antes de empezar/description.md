@@ -20,5 +20,5 @@ Aunque [https://mumuki.io](https://mumuki.io) es un una gran página (¿o noooo?
 
 > ¿Reconocés a éstos elementos? ¡Buscalos en la página!
 >
-> Y cuando termines, contanos cual de las siguientes respuestas son verdaderas: 
+> Y cuando termines, contanos cuales de las siguientes respuestas son verdaderas: 
 > 
