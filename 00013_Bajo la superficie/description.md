@@ -12,7 +12,7 @@
   <li>con</li>
   <li>viñetas</li>
 </ul>
-<input type="button" value="Un botón"></input>
+<input type='button' value='Un botón'></input>
 ```
 
 > ¿No nos creés? Copialo en el editor y envialo, y fijate qué sucede. 
