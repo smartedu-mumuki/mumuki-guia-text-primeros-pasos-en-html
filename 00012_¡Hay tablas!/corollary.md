@@ -1,1 +1,0 @@
-:clap::clap: _¡Felicitaciones! ¡Ya completaste tus primeros pasos de maquetado de páginas web! TR es para la ROW(fila) de la tabla y TD para el DATA (dato) de la tabla, por cada elemento deberas crear un td, no lo olvides._
