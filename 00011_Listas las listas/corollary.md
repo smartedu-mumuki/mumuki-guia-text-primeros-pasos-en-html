@@ -1,1 +1,0 @@
-:claps: _¡Perfecto! ¿Ves la diferencia? Las listas ordenadas van a tener un numero y las desordenadas simplemente un "bulletpoint"_
