@@ -1,0 +1,1 @@
+¡No te olvides de los elementos `html`, `head` y `body`!
