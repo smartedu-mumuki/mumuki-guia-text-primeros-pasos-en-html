@@ -13,4 +13,4 @@ Si bien hasta ahora veníamos escribiendo nuestros `head`s y `body`s sueltos en 
 </html>
 ```
 
-> Veamos si se entiende: envolvé a la página que venimos construyendo en los ejercicios anteriores con un tag `html` . 
+> Veamos si se entiende: envolvé a la página que venimos construyendo en los ejercicios anteriores en un tag `html` . 
