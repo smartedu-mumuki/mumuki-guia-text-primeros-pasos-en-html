@@ -1,1 +1,1 @@
-¡Ya armaste tu primer sitio completamente funcional! ¡Pero no te agrandes! Falta mucho por ver.
+¡Bien hecho! Notá que ahora sí se ve :smile:.
