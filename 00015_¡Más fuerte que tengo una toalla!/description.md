@@ -8,4 +8,4 @@ Pero cuando queremos mostrar información, no toda tiene igual importancia. Por 
 </p>
 ```
 
-> Fijate 
+> Veamos si se entiende: dale fuerza las palabras "lorem ipsum"
