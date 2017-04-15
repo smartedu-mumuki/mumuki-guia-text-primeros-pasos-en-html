@@ -4,8 +4,8 @@ Pero cuando queremos mostrar información, no toda tiene igual importancia. Por 
 
 ```html
 <p>
-  ¡Hable <strong>mas fuerte</strong> que tengo una toalla!
+  ¡Hable <strong>más fuerte</strong> que tengo una toalla!
 </p>
 ```
 
-> Veamos si se entiende: dale fuerza las palabras "lorem ipsum"
+> Veamos si se entiende: dale fuerza las palabras "dolor sit amet"
