@@ -15,4 +15,4 @@
 <input type='button' value='Un botón'></input>
 ```
 
-> ¿No nos creés? Copialo en el editor y envialo, y fijate qué sucede. 
+> ¿No nos creés? Copialo en el editor, envialo, y fijate qué sucede. 
