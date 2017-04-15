@@ -1,12 +1,14 @@
-¡Bien! Ya armaste tu primer estructura de página web, vamos a agregarle un titulo, para eso vamos a usar la etiqueta (_tag_) `title` de esta forma: 
+En HTML, estas cosas que escribimos entre `<` y  `>` se denominan **etiquetas** (_tags_). ¡Pero `head` y `body` no son las únicas! :open_mouth:
+
+Por ejemplo, otra etiqueta es `title`, que sirve para darle un título a la página: 
 
 ```html
-<title> </title>
+<title>Un título</title>
 ```
 
-Como verás, cada etiqueta se abre y se cierra, para indicarle al navegador cuál será el título de la página.
+Como verás, al igual que pasaba con `head` y `body`, la etiqueta `title` se abre y se cierra, para indicarle al navegador cuál será el título de la página.
 
-> Escribí en el cuadro de la derecha:
+> Escribí en el editor el siguiente título:
 >
 > ```html
 > <title>Mi primer sitio</title>
