@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/mumuki/mumuki-laboratory/master/laboratory-screenshot.png" width="100%"> 
 
-Aunque [https://mumuki.io](https://mumuki.io) es un una gran página (¿o noooo? :rage:), no es tan especial: utiliza elementos visuales, llamados _componentes_, que están en casi cualquier otro sitio, por ejemplo: 
+Aunque [https://mumuki.io](https://mumuki.io) es un una gran página (¿o noooo? :rage:), no es tan especial: utiliza elementos visuales, llamados _componentes_, que están en casi cualquier otro sitio. Por ejemplo: 
 
 <h3>Un título</h3>
 
