@@ -8,9 +8,12 @@ language: text
 teacher_info: 
 manual_evaluation: false
 choices:
-- value: En esta página, hay un botón que dice "Enviar"
+- !ruby/hash:BSON::Document
+  value: En esta página, hay un botón que dice "Enviar"
   checked: true
-- value: En esta página, "Antes de empezar" es un título
+- !ruby/hash:BSON::Document
+  value: En esta página, "Antes de empezar" es un título
   checked: true
-- value: En la página principal (la que está en la foto) hay viñetas
+- !ruby/hash:BSON::Document
+  value: En la página principal (la que está en la foto) hay viñetas
   checked: false
