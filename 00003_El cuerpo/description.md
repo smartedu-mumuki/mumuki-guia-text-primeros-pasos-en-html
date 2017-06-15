@@ -18,6 +18,6 @@ Por tanto se verá en la pestaña del navegador, no en el cuerpo de tu página w
 > <title>Mi primer sitio</title>
 > </head>
 > <body>
-La ballena azul
+La foca japonesa
 </body>
 > ```

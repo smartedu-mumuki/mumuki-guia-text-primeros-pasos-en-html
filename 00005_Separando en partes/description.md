@@ -2,4 +2,4 @@ Aunque nuestra página funciona y muestra información, es muy difícil de enten
 
 Vamos a solucionar esto usando una nueva etiqueta `h1`, que nos permite definir **encabezados**
 
-> Veamos si se entiende: agregale la etiqueta `h1` a `"la ballena azul"`
+> Veamos si se entiende: agregale la etiqueta `h1` a `"la foca japonesa"`

@@ -8,4 +8,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Este texto, llamado _Lorem Ipsum_ se usa de relleno cuando creamos páginas web. Sirve para no distraernos con el contenido mientras maquetamos y para no tener que estar pensando qué escribir.
 
-> Agregá el texto del Lorem Ipsum al body, justo debajo de "La ballena azul"
+> Agregá el texto del Lorem Ipsum al body, justo debajo de "La foca japonesa"
