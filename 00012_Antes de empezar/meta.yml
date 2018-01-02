@@ -5,15 +5,11 @@ editor: multiple_choice
 type: problem
 extra_visible: false
 language: text
-teacher_info: 
 manual_evaluation: false
 choices:
-- !ruby/hash:BSON::Document
-  value: En esta página, hay un botón que dice "Enviar"
+- value: En esta página, hay un botón que dice "Enviar"
   checked: true
-- !ruby/hash:BSON::Document
-  value: En esta página, "Antes de empezar" es un título
+- value: En esta página, "Antes de empezar" es un título
   checked: true
-- !ruby/hash:BSON::Document
-  value: En la página principal (la que está en la foto) hay viñetas
+- value: En la página principal (la que está en la foto) hay viñetas
   checked: false
