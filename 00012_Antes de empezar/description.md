@@ -8,8 +8,7 @@
   class='mu-browser'
   data-url='https://mi-sitio.mumuki.io'
   data-title='Mumuki - Aprender a programar'
-  data-favicon='https://mumuki.io/logo-alt.png'
-  data-srcdoc='<p>Hello Mumuki Browser</p>' >
+  data-favicon='https://mumuki.io/logo-alt.png' >
 </div>
 
 
