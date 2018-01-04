@@ -9,7 +9,7 @@
   data-url='https://mi-sitio.mumuki.io'
   data-title='Mumuki - Aprender a programar'
   data-favicon='https://mumuki.io/logo-alt.png'
-  data-srcdoc="&lt;Hello Mumuki Browser&gt;" >
+  data-srcdoc="&lt;h1&gt;Hello Mumuki Browser&lt;h1&gt;" >
 </div>
 
 
