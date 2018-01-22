@@ -14,7 +14,7 @@ Aunque Mumuki es un una gran página (¿o noooo? :rage:), no es tan especial: ut
   <li>viñetas</li>
 </ul>
 
-<input type="button" class="btn btn-success" value="Un botón"></input>
+<a href="">Un link</a>
 
 > ¿Reconocés a éstos elementos? ¡Buscalos en nuestra página!
 >
