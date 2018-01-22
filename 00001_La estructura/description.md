@@ -1,12 +1,25 @@
-Las páginas web se arman en un lenguaje llamado _Hypertext Markup Language_ que significa _Lenguaje de Marcado de Hipertextos_. ¿Muy largo, no? :cold_sweat: Por eso le diremos HTML por comodidad. Actualmente la versión que se usa es la 5 y la desarrolla [W3C](http://www.w3c.es/).
+Las páginas web se escriben utilizando hasta 3 lenguajes :hushed:, cada uno para un propósito distinto:
 
-Una página  tiene dos secciones principales, el `head` y el `body`: en el `head` irá información para el navegador y en el `body` lo que el usuario de tu página web verá.
+- HTML: para definir el contenido
+- CSS: para embellecerlo
+- JavaScript: para agregar interactividad
 
-> Vamos a ver cómo se crean estas estructuras; escribí en el cuadro de la derecha lo siguiente: 
-> 
+Nosotros vamos a comenzar por HTML, actualmente la versión que se usa es la 5 y la desarrolla [W3C](http://www.w3c.es/).
+
+¡Empecemos!
+
+Una página tiene 2 secciones principales, el `head` y el `body`: en el `head` irá información para el navegador, y en el `body` lo que el usuario de tu página web verá.
+
+Ejercicio:
+> Veamos cómo se crean estas estructuras; escribí en el cuadro de la derecha lo siguiente:
+>
 > ```html
-> <head>
-> </head>
-> <body>
-> </body>
+> <!DOCTYPE html>
+> <html>
+>  <head>
+>  </head>
+>  <body>
+>  </body>
+> </html>
 > ```
+
