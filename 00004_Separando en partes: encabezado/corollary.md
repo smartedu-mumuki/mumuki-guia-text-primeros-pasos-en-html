@@ -1,0 +1,3 @@
+Definir un `h1` nos permitió distinguir el encabezado de los otros párrafos, esto se debe a que `h1`, así también como otros elementos, generan un agrupamiento conocido como bloque. :hushed:... ya hablaremos de esto más adelante.
+
+> Veamos si se entiende: agregale la etiqueta `h1` a¿Pero por qué el 1 en h1? ¿Hay acaso más hs? ¡Averigualo!
