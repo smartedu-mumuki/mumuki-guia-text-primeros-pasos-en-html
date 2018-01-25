@@ -1,3 +1,1 @@
-¿Viste como cada encabezado es más chico que el anterior? En general mayores niveles de encabezado se corresponderán con menores tamaños de fuente :speak_no_evil:.
-
-
+Como ves, el contenido de un `strong` típicamente se muestra en **negritas**.  No siempre ser así, pero por ahora podemos pensarlo de esa forma :wink:.
