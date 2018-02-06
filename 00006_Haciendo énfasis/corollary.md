@@ -1,0 +1,1 @@
+Al igual que con `strong` aquí vemos otro _agrupador en línea_.
