@@ -1,0 +1,12 @@
+---
+expectations:
+- binding: body
+  inspection: DeclaresTag:h3
+- binding: body
+  inspection: DeclaresTag:p
+- binding: body
+  inspection: DeclaresTag:ul
+- binding: body/ul
+  inspection: DeclaresTag:li
+- binding: body
+  inspection: DeclaresTag:a
