@@ -1,0 +1,4 @@
+---
+expectations:
+- binding: html
+  inspection: DeclaresTag:title
