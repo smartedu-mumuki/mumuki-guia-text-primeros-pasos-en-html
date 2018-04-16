@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: "*"
+  inspection: DeclaresTag:html
+- binding: html
+  inspection: DeclaresTag:head
+- binding: html
+  inspection: DeclaresTag:body
