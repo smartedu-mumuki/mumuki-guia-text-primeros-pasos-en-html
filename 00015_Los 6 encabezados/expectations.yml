@@ -1,0 +1,10 @@
+---
+expectations:
+- binding: body
+  inspection: DeclaresTag:h1
+- binding: body
+  inspection: DeclaresTag:h2
+- binding: body
+  inspection: DeclaresTag:h3
+- binding: body
+  inspection: DeclaresTag:h4

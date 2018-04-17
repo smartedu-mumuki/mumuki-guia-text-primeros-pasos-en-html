@@ -1,11 +1,17 @@
-Hasta acá vimos dos componentes muy comunes en toda página: encabezados y párrafos, que podemos describir con etiquetas como `h1`  y `p`. 
-
-Pero cuando queremos mostrar información, no toda tiene igual importancia. Por ejemplo, podemos indicar que una parte de un texto tiene mayor fuerza usando `strong`: 
-
-```html
-<p>
-  ¡Hable <strong>más fuerte</strong> que tengo una toalla!
-</p>
-```
-
-> Veamos si se entiende: dale fuerza las palabras "dolor sit amet"
+En realidad contamos con 6 _niveles_ de encabezados: `h1` es el más importante y `h6` el de menos. ¡Además, una página puede tener múltiples encabezados!	
+	
+> ¿No nos creés? ¡Enviá el siguiente código!
+>
+> ```
+<head>
+  <title>Roberto Arlt: Los siete Locos</title>
+</head>
+<body>
+  <h1>Los Siete Locos</h1>
+  <h2>Capítulo 1</h2>
+  <h3>La sorpresa</h3>
+  Al abrir la puerta de emergencia...
+  <h4>Estados de conciencia</h4>
+  Sabía que era un ladrón...
+</body>
+>```
