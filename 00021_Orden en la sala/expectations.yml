@@ -1,0 +1,8 @@
+---
+expectations:
+- binding: "*"
+  inspection: DeclaresTag:ol
+- binding: ol
+  inspection: DeclaresTag:li
+- binding: ol
+  inspection: Not:DeclaresAttribute:type
