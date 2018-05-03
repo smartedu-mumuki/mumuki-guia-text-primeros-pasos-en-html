@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: "*"
+  inspection: DeclaresTag:ul
+- binding: ul
+  inspection: DeclaresTag:li
