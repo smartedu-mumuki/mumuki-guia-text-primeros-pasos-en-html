@@ -1,1 +1,0 @@
-Como ves, el contenido de un `strong` típicamente se muestra en **negritas**.  No siempre ser así, pero por ahora podemos pensarlo de esa forma :wink:.
