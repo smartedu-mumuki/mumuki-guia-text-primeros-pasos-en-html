@@ -10,3 +10,9 @@ expectations:
   inspection: DeclaresTag:p
 - binding: head
   inspection: DeclaresTag:title
+- binding: "*"
+  inspection: DeclaresTag:html
+- binding: html
+  inspection: DeclaresTag:head
+- binding: html
+  inspection: DeclaresTag:body
