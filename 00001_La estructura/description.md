@@ -1,17 +1,11 @@
-Las páginas web se escriben utilizando hasta 3 lenguajes :hushed:, cada uno para un propósito distinto:
+Una página web tiene 2 secciones principales:
 
-- HTML: para definir el contenido
-- CSS: para embellecerlo
-- JavaScript: para agregar interactividad
+* El `head`,en el cual irá información para el navegador;
+* y el `body`, que contiene lo que el usuario de tu página verá.
 
-Nosotros vamos a comenzar por HTML, actualmente la versión que se usa es la 5 y la desarrolla [W3C](http://www.w3c.es/).
+Veamos cómo se crean estas estructuras (vacías por el momento).
 
-¡Empecemos!
-
-Una página tiene 2 secciones principales, el `head` y el `body`: en el `head` irá información para el navegador, y en el `body` lo que el usuario de tu página web verá.
-
-Ejercicio:
-> Veamos cómo se crean estas estructuras; escribí en el cuadro de la derecha lo siguiente:
+> Escribí en el cuadro de la derecha lo siguiente:
 >
 > ```html
 > <!DOCTYPE html>
