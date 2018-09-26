@@ -10,3 +10,5 @@ expectations:
   inspection: DeclaresTag:li
 - binding: body
   inspection: DeclaresTag:a
+- binding: body
+  inspection: DeclaresTag:button
