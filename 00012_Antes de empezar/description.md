@@ -2,21 +2,27 @@
 
 Aunque Mumuki es un una gran página (¿o noooo? :rage:), no es tan especial: utiliza elementos visuales, llamados _componentes_, que están en casi cualquier otro sitio. Por ejemplo: 
 
-<h3>Un título</h3>
+<div class='mu-browser' data-title='Ejemplo' data-srcdoc='
+  <h3>Un título</h3>
+  
+  <p>
+    Un párrafo como este
+    que estás leyendo ahora 
+  </p>
+  
+  <button>Un botón</button>
+  
+  <ul>  
+    <li>una lista</li>
+    <li>con</li>
+    <li>viñetas</li>
+  </ul>
+  
+  <a href="">Un link</a>'>
+  </div>
 
-<p>
-  Un párrafo
-</p>
-
-<ul>  
-  <li>una lista</li>
-  <li>con</li>
-  <li>viñetas</li>
-</ul>
-
-<a href="">Un link</a>
 
 > ¿Reconocés a éstos elementos? ¡Buscalos en nuestra página!
 >
-> Y cuando termines, contanos cuáles de las siguientes afirmaciones son verdaderas: 
-> 
+> Y cuando termines, contanos cuáles de las siguientes afirmaciones son verdaderas. 
+> En esta página:
