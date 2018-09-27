@@ -1,1 +1,4 @@
-¡Bien! :clap: ¿Y dónde ponemos el `title` dentro de la estructura que vimos antes? ¡Seguínos! 
+Excelente, la etiqueta `<title>` también:
+
+* es el nombre que aparece cuando la agregamos a nuestras "páginas favoritas";
+* es el título que se ve en motores de búsqueda, como por ejemplo "Google".
