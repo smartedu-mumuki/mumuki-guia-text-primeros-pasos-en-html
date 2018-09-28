@@ -1,4 +1,4 @@
-¿Y si en lugar de un párrafo queremos mostrar código <i class="fa fa-file-code-o"></i> ? ¡Para eso tenemos también un componente específico! :sunglasses:
+¿Y si en lugar de un párrafo queremos mostrar código? ¡Para eso tenemos también un componente específico! :sunglasses:
 
 Conozcamos a la etiqueta `code`: 
 
