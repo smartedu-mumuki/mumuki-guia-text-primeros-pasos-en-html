@@ -1,4 +1,4 @@
 ---
 expectations:
-- binding: body
+- binding: html/body/p
   inspection: DeclaresTag:strong
