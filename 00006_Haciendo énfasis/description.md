@@ -1,6 +1,6 @@
-Ahora que ya conocimos `strong`, veamos otro componente que nos da html: los énfasis. 
+Ahora que ya conocimos `strong`, veamos otro componente que podemos encontrar en HTML: los énfasis. 
 
-Éstos se describen mediante el tag `em`...
+Éstos se describen mediante el tag `em` de la siguiente manera:
 
 ```html
 <p>
@@ -8,10 +8,10 @@ Ahora que ya conocimos `strong`, veamos otro componente que nos da html: los én
 </p>
 ```
 
-... y se suelen ver en _cursivas_:
+Y se ve así:
 
 <p>
 <em>Ser</em> o <em>no ser</em>. Ésa es es la cuestión.   
 </p>
 
-> Veamos si se entiende: agregá énfasis en "laboris nisi" en el primer párrafo. 
+> Ponele énfasis a las palabras _un mar de fueguitos_ del segundo párrafo. 
