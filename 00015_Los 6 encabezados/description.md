@@ -3,6 +3,7 @@ En realidad contamos con 6 _niveles_ de encabezados: `h1` es el más importante 
 > ¿No nos creés? ¡Enviá el siguiente código!
 >
 > ```
+<!DOCTYPE html>
 <head>
   <title>Roberto Arlt: Los siete Locos</title>
 </head>
