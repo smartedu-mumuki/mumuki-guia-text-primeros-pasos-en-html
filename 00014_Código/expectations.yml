@@ -1,6 +1,6 @@
 ---
 expectations:
-- binding: body
-  inspection: DeclaresTag:h1
-- binding: body
+- binding: html/body
+  inspection: DeclaresTag:p
+- binding: html/body
   inspection: DeclaresTag:code

@@ -10,11 +10,8 @@ Conozcamos a la etiqueta `code`:
 </code>
 ```
 
-> Veamos si se entiende: agregá a la siguiente página un componente de código con el siguiente contenido, justo debajo del encabezado `h1`. 
+> Veamos si se entiende: agregá a la siguiente página un componente de código con el siguiente contenido, justo debajo del párrafo. 
 > 
-> ```gobstones
-> procedure Mover2(direccion) {
->    Mover(direccion)
->    Mover(direccion)
-> }
+> ```javascript
+> var codigo = "Soy un code";
 > ```
