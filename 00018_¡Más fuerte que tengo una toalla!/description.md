@@ -7,5 +7,6 @@ Pero cuando queremos mostrar información, no toda tiene la misma importancia. P
   ¡Hable <strong>más fuerte</strong> que tengo una toalla!
 </p>
 ```
+Veamos si se entiende:
 
-> Veamos si se entiende: dale fuerza a las palabras _Neguá_ y _Colombia_.
+>  Dale fuerza a las palabras _Neguá_ y _Colombia_.
