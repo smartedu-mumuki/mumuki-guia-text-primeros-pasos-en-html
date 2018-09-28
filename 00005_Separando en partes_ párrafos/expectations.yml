@@ -2,5 +2,3 @@
 expectations:
 - binding: body
   inspection: DeclaresTag:p
-- binding: body
-  inspection: DeclaresTag:h1

@@ -1,4 +1,4 @@
-Para marcar que un texto es un párrafo usaremos la etiqueta `p`, por ejemplo: 
+Ya tenemos un encabezado para nuestro texto. Ahora diferenciaremos cada párrafo. Para marcar que una porción del texto es un párrafo usaremos la etiqueta `p`. Por ejemplo: 
 
 ```html
 <p>éste es un párrafo</p>
@@ -7,6 +7,6 @@ Para marcar que un texto es un párrafo usaremos la etiqueta `p`, por ejemplo:
 
 > ¡Veamos si se entiende! Usando `p`, separá el texto de _El mundo_ de Galeano:
 >
-> - El 1er párrafo es la primer oración
-> - El 2do párrafo va desde _A la vuelta,..._ hasta la oración _Y dijo que somos_
-> - El 3er párrafo es el resto.
+> * El 1er párrafo es la primer oración;
+> * el 2do párrafo va desde _A la vuelta,..._ hasta la oración _Y dijo que somos_...;
+> * el 3er párrafo es el resto.
