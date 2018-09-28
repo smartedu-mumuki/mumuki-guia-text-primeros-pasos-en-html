@@ -1,6 +1,4 @@
 ---
 expectations:
-- binding: html/head
-  inspection: DeclaresTag:title
 - binding: html
   inspection: DeclaresTag:body

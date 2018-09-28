@@ -1,18 +1,10 @@
-Hasta ahora tenemos una página en blanco y un título en el navegador.
+Hasta ahora tenemos una página en blanco y un título en el navegador. Así que vamos a agregar un poco de contenido
 
-> Hacé tu primer intento, escribí lo siguiente en cuadro de la derecha:
+> Agrega el siguiente texto dentro del tag `body`:
 
 > ```html
-> <!DOCTYPE html>
-> <html>
->   <head>
->      <title>Mi primer página</title>
->  </head>
->  <body>
 >     El mundo
 >     Un hombre del pueblo de Neguá, en la costa de Colombia, pudo subir al alto cielo.
 >      A la vuelta, contó. Dijo que había contemplado, desde allá arriba, la vida humana. Y dijo que somos un mar de fueguitos.
 >    - El mundo es eso -reveló-. Un montón de gente, un mar de fueguitos.
->  </body>
-> </html>
 > ```
