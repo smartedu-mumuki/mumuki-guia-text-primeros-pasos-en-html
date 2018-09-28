@@ -1,6 +1,6 @@
 Hasta acá vimos dos componentes muy comunes en toda página: encabezados y párrafos, que podemos describir con etiquetas como `h1`  y `p`. 
 
-Pero cuando queremos mostrar información, no toda tiene igual importancia. Por ejemplo, podemos indicar que una parte de un texto tiene mayor fuerza usando `strong`: 
+Pero cuando queremos mostrar información, no toda tiene la misma importancia. Por ejemplo, podemos indicar que una parte de un texto tiene mayor fuerza usando `strong`: 
 
 ```html
 <p>
@@ -8,4 +8,4 @@ Pero cuando queremos mostrar información, no toda tiene igual importancia. Por 
 </p>
 ```
 
-> Veamos si se entiende: dale fuerza las palabras "dolor sit amet"
+> Veamos si se entiende: dale fuerza a las palabras _Neguá_ y _Colombia_.
