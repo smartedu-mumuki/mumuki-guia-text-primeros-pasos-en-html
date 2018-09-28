@@ -1,5 +1,6 @@
-El elemento `ul` es él que agrupa a los items.
+En este ejercicio vimos dos nuevos tags:
 
-El elemento `li` es un item dentro de un `ul`.
+*  `ul`, que agrupa a los items;
+*  `li`, que es para item dentro de un `ul`.
 
 ¿Notaste que se muestran unos circulitos al lado de cada ítem? Este es el comportamiento por defecto, mas adelante aprenderemos a cambiarlos.
