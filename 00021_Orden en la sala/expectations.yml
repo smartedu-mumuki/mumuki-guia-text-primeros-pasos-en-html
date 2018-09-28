@@ -1,8 +1,8 @@
 ---
 expectations:
-- binding: "*"
+- binding: html/body
   inspection: DeclaresTag:ol
-- binding: ol
+- binding: html/body/ol
   inspection: DeclaresTag:li
-- binding: ol
+- binding: html/body/ol
   inspection: Not:DeclaresAttribute:type

@@ -1,6 +1,6 @@
 ¿Y si queremos una lista ordenada?
 
-¡Muy fácil! En lugar de usar `ul` vamos a usar `ol`. Los items se siguen llamando `li`.
+¡Muy fácil! En lugar de usar `ul` vamos a usar `ol`. Pero tranqui, los items se siguen llamando `li`.
 
 La diferencia es que tiene un atributo llamado `type` que permite el formato del índice utilizado:
 
