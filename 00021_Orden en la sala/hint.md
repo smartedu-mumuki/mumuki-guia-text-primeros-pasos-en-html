@@ -1,1 +1,1 @@
-Se escribe igual que las listas desordenadas, pero en lugar de usar `ul`, usa `ol`.
+Recordá que la lista va dentro del `body`.

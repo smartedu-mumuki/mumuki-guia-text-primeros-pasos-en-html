@@ -32,4 +32,4 @@ Por ejemplo este código...
   <li>Irregular</li>
 </ol>
 
-> ¡Ahora te toca a vos! Lista 3 elementos usando el índice numérico (es decir, no hace falta escribir el `type`).
+> ¡Ahora te toca a vos! Listá tus 3 colores preferidos usando el índice romano.
