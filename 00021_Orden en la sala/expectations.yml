@@ -4,5 +4,3 @@ expectations:
   inspection: DeclaresTag:ol
 - binding: html/body/ol
   inspection: DeclaresTag:li
-- binding: html/body/ol
-  inspection: Not:DeclaresAttribute:type
