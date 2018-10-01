@@ -7,7 +7,7 @@ A lo que hace referencia una lista desordenada, es que no esta explicitado el or
   <li>La historia oficial</li>
   <li>El hijo de la novia</li>
   <li>El secreto de sus ojos</li>
-  <li>Relatos salvajos</li>
+  <li>Relatos salvajes</li>
 </ul>
 
 Ahora te toca a vos:
