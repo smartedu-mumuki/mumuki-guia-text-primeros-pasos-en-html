@@ -1,4 +1,4 @@
-¿Y cómo hicimos para dibujar esos componentes en la pantalla :open_mouth:? 
+¿Y cómo hicimos para dibujar esos componentes en la pantalla? :open_mouth: 
 
 ¡Fácil! Los describimos usando un lenguaje que los **navegadores** (_browsers_), saben leer e interpretar. Por ejemplo, el código para dibujar la página que vimos en la pántalla anterior es el siguiente: 
 
@@ -21,4 +21,4 @@
 <a href="">Un link</a>
 ```
 
-> ¿No nos creés? Copialo en el editor, envialo, y fijate qué sucede :wink:. 
+> ¿No nos creés? Copialo en el editor, envialo, y fijate qué sucede. :wink: 
