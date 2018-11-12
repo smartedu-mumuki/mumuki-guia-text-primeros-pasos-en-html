@@ -7,10 +7,10 @@ extra_visible: false
 language: text
 manual_evaluation: false
 choices:
-- value: Hay un botón que dice "Enviar"
+- value: '... hay un botón que dice _"Enviar"_;'
   checked: true
-- value: '"Antes de empezar" es un link'
+- value: '... _"Antes de empezar"_ es un link;'
   checked: false
-- value: Hay un link a la página principal de Mumuki
+- value: "... hay un link a la página principal de Mumuki."
   checked: true
 name: Antes de empezar

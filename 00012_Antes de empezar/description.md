@@ -22,7 +22,6 @@ Aunque Mumuki es un una gran página (¿o noooo? :rage:), no es tan especial: ut
   </div>
 
 
-> ¿Reconocés a éstos elementos? ¡Buscalos en nuestra página!
+> ¿Reconocés estos elementos? ¡Buscalos en nuestra página! Y cuando termines, contanos cuáles de las siguientes afirmaciones son verdaderas. 
 >
-> Y cuando termines, contanos cuáles de las siguientes afirmaciones son verdaderas. 
-> En esta página:
+> En esta página...
