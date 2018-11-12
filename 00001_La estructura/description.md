@@ -5,7 +5,7 @@ Una página web tiene 2 secciones principales:
 
 Veamos cómo se crean estas estructuras (vacías por el momento). :eyes:
 
-> Escribí en el cuadro de la derecha lo siguiente:
+> Escribí en el editor lo siguiente:
 >
 > ```html
 > <!DOCTYPE html>
