@@ -1,4 +1,4 @@
-¿Cuál es la primera página Web que se te viene a la mente? A nosotros, al menos, se nos ocurre ésta: [https://mumuki.io](https://mumuki.io)  :stuck_out_tongue: 
+¿Cuál es la primera página Web que se te viene a la mente? A nosotros, al menos, se nos ocurre ésta: [https://mumuki.io](https://mumuki.io)  :stuck_out_tongue:.
 
 Aunque Mumuki es un una gran página (¿o noooo? :rage:), no es tan especial: utiliza elementos visuales, llamados _componentes_, que están en casi cualquier otro sitio. Por ejemplo: 
 
