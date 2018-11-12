@@ -1,6 +1,4 @@
-Hasta ahora estuvimos trabajando con números y símbolos raros. Ya nos acostumbramos a usar llaves **{}**, corchetes **[]** y paréntesis angulares **<>**.
-
-Si una persona que no sabe programar viera eso, no entendería nada y tampoco podría utilizar el programa que desarrollamos.
+Hasta ahora estuvimos trabajando con números y símbolos raros; por ejemplo, ya nos acostumbramos a usar llaves `{}`, corchetes `[]` y paréntesis angulares `<>` :sweat_smile:. Peeero si una persona que no supiera programar viera esto, no entendería nada y tampoco podría utilizar el programa que desarrollamos :confused:.
 
 ¿Cómo hacemos para lograr que ese código sea entendible y _usable_? Te lo contamos en este video. 
 
