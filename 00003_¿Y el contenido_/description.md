@@ -1,4 +1,4 @@
-Hasta ahora tenemos una página en blanco y un título en el navegador. Así que vamos a agregar un poco de contenido
+Hasta ahora tenemos una página en blanco y un título en el navegador. ¡Vamos a agregarle contenido! :tada:
 
 > Agrega el siguiente texto dentro del tag `body`:
 

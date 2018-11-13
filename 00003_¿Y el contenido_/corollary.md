@@ -1,2 +1,2 @@
-Ughhh… :frowning: ¡Está todo junto!
-Veamos cómo separar en partes nuestra página...
+Ughhh, está todo junto... :persevere:
+¡Sigamos así vemos cómo separar en partes nuestra página!
