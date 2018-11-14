@@ -10,7 +10,7 @@ Conozcamos a la etiqueta `code`:
 </code>
 ```
 
-> Veamos si se entiende: agregá a la siguiente página un componente de código con el siguiente contenido, justo debajo del párrafo. 
+> Veamos si se entiende: agregá justo abajo del párrafo un componente de código con el siguiente contenido.
 > 
 > ```javascript
 > var codigo = "Soy un code";
