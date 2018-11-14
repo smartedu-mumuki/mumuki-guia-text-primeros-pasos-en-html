@@ -1,1 +1,1 @@
-Tanto `strong` como `em` son etiquetas que permiten realizar _agrupaciones en línea_, aunque no son las únicas. La agrupación en línea sirve para darle una apariencia distinta a cierta parte de nuestro texto.
+Tanto `strong` como `em` son etiquetas que permiten realizar _agrupaciones en línea_, aunque no son las únicas. La agrupación en línea sirve para darle una apariencia distinta a cierta parte de nuestro texto. :open_mouth:
