@@ -1,7 +1,10 @@
-EN HTML también podemos listar cosas. Las listas nos permiten jerarquizar información anidando items dentro de otros.
-A lo que hace referencia una lista desordenada, es que no esta explicitado el orden, solo se muestra un item debajo del otro sin un índice. Por ejemplo:
+¡Tenemos más etiquetas! ¿Listos? _¿Listas?_ 
 
-<ul>Películas argentinas nominadas al Óscar:
+Para tu tranquilidad, listar cosas también es posible en HTML :relaxed:. Las listas nos permiten jerarquizar información anidando items dentro de otros.
+
+Una lista desordenada no tiene explícito el orden, duh :stuck_out_tongue_closed_eyes:. Es decir, sólo muestra un item debajo del otro sin un índice. Por ejemplo, las películas argentinas que fueron nominadas al Óscar son:
+
+<ul>
   <li>Camila</li>
   <li>La tregua</li>
   <li>La historia oficial</li>
@@ -9,6 +12,19 @@ A lo que hace referencia una lista desordenada, es que no esta explicitado el or
   <li>El secreto de sus ojos</li>
   <li>Relatos salvajes</li>
 </ul>
+
+¿Y cómo hacemos eso? :eyes: Así: 
+
+``` HTML
+<ul>
+  <li>Camila</li>
+  <li>La tregua</li>
+  <li>La historia oficial</li>
+  <li>El hijo de la novia</li>
+  <li>El secreto de sus ojos</li>
+  <li>Relatos salvajes</li>
+</ul>
+```
 
 Ahora te toca a vos:
 
