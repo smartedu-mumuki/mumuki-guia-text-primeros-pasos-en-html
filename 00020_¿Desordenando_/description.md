@@ -1,8 +1,8 @@
 ¡Tenemos más etiquetas! ¿Listos? _¿Listas?_ 
 
-Para tu tranquilidad, listar cosas también es posible en HTML :relaxed:. Las listas nos permiten jerarquizar información anidando items dentro de otros.
+Para tu tranquilidad, listar cosas también es posible en HTML :relaxed:. Las listas nos permiten jerarquizar información anidando ítems dentro de otros.
 
-Una lista desordenada no tiene explícito el orden, duh :stuck_out_tongue_closed_eyes:. Es decir, sólo muestra un item debajo del otro sin un índice. Por ejemplo, las películas argentinas que fueron nominadas al Óscar son:
+Una lista desordenada no tiene explícito el orden, duh :stuck_out_tongue_closed_eyes:. Es decir, sólo muestra un ítem debajo del otro sin un índice. Por ejemplo, las películas argentinas que fueron nominadas al Óscar son:
 
 <ul>
   <li>Camila</li>
