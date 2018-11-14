@@ -1,4 +1,4 @@
-Ya tenemos un encabezado para nuestro texto. Ahora diferenciaremos cada párrafo. Para marcar que una porción del texto es un párrafo usaremos la etiqueta `p`. Por ejemplo: 
+Ahora que ya tenemos un encabezado para nuestro texto vamos a diferenciar cada párrafo :relaxed:. Para marcar que una porción del texto es un párrafo usaremos la etiqueta `p`. Por ejemplo: 
 
 ```html
 <p>éste es un párrafo</p>
