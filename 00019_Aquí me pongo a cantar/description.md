@@ -1,4 +1,4 @@
-¡Ahora te toca a vos!
+¡Ahora te toca a vos! :sunglasses:
 
 Tenemos el siguiente texto, pero lo queremos mostrar usando HTML, respetando la siguiente estructura:
 
