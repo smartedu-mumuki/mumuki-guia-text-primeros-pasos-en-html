@@ -1,6 +1,6 @@
 Ahora que ya conocimos `strong`, veamos otro componente que podemos encontrar en HTML: los _énfasis_. 
 
-Éstos se describen mediante el tag `em` de la siguiente manera:
+Estos se describen mediante el tag `em` de la siguiente manera:
 
 ```html
 <p>
