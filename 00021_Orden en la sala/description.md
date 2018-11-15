@@ -1,6 +1,6 @@
 ¿Y si queremos una lista ordenada?
 
-¡Muy fácil! En lugar de usar `ul` vamos a usar `ol`. Pero tranqui, los ítems se siguen llamando `li`. :relieved:
+¡Muy fácil! En lugar de usar `ul` vamos a usar `ol`. Pero tranqui, los ítems se siguen llamando `li`. :relieved: :relieved:
 
 
 Por ejemplo, el código que representa la lista de canciones del album "Invisible"...
