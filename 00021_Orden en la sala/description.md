@@ -1,17 +1,12 @@
 ¿Y si queremos una lista ordenada?
 
-¡Muy fácil! En lugar de usar `ul` vamos a usar `ol`. Pero tranqui, los ítems se siguen llamando `li`.
+¡Muy fácil! En lugar de usar `ul` vamos a usar `ol`. Pero tranqui, los ítems se siguen llamando `li`. :relieved:
 
-La diferencia es que tiene un atributo llamado `type` que permite modificar el formato del índice utilizado:
 
-- 1: índice numérico (por defecto)
-- A: índice alfabético
-- I: índice romano
-
-Por ejemplo este código...
+Por ejemplo, el código que representa la lista de canciones del album "Invisible"...
 
 ``` html
-<ol type="A"> Canciones del album "Invisible":
+<ol>
   <li>Jugo de lúcuma</li>
   <li>El diluvio y la pasajera</li>
   <li>Suspensión</li>
@@ -23,7 +18,7 @@ Por ejemplo este código...
 
 ... se vería así:
 
-<ol type="A"> Canciones del album "Invisible":
+<ol>
   <li>Jugo de lúcuma</li>
   <li>El diluvio y la pasajera</li>
   <li>Suspensión</li>
@@ -32,4 +27,4 @@ Por ejemplo este código...
   <li>Irregular</li>
 </ol>
 
-> ¡Ahora te toca a vos! Listá tus 3 colores preferidos usando el índice romano.
+> ¡Ahora te toca a vos! Listá tus 3 colores preferidos.

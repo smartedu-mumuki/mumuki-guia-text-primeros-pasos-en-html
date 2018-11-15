@@ -73,7 +73,7 @@ En cambio, `strong` o `em` permiten realizar _agrupaciones en línea_. Es decir,
 "> <em>enfatizadas</em>
 </span>
 <span>
-  quedan en una misma línea. 😯
+  quedan en una misma línea. 😯 
 </span>
    </div>
    </html>
