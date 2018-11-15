@@ -1,6 +1,6 @@
 ¡Bien hecho! Terminaste la primera lección sobre interfaces de usuario. ¿Qué cosas aprendimos? :thought_balloon:  
 
-* las páginas web, por más diferentes que sean, utilizan componentes visuales comunes, como títulos, párrafos, botones y listas con viñetas;
+* Las páginas web, por más diferentes que sean, utilizan componentes visuales comunes, como títulos, párrafos, botones y listas con viñetas;
 * las páginas web se escriben en un lenguaje llamado `HTML`;
 * HTML es un lenguaje, pero que a diferencia de Gobstones o JavaScript no sirve para programar sino para mostrar información;
 * y HTML usa etiquetas (_tags_) para describir las áreas de la página y sus componentes visuales.
