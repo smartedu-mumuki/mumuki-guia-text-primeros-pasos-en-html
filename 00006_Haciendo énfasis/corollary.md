@@ -32,7 +32,7 @@ Tanto el contenido de un `h1` como un de `p` se separa del siguiente elemento co
 </table>
 </div>
 
-En cambio, `strong` o `em` permiten realizar _agrupaciones en línea_. Es decir, le dan una apariencia distinta a cierta parte del texto sin interrumpir el mismo. Y si seguimos utilizando nuestra imaginación :rainbow: y cada etiqueta fuese un bloque color azul, sería algo así: 
+En cambio, `strong` o `em` permiten realizar _agrupaciones en línea_. Es decir, le dan una apariencia distinta a cierta parte del texto sin interrumpir el mismo. Y si seguimos utilizando nuestra imaginación :rainbow: y cada etiqueta fuese un bloque de color azul, sería algo así: 
 
 <html>
 <head>
