@@ -4,7 +4,7 @@ Ahora que ya conocimos `strong`, veamos otro componente que podemos encontrar en
 
 ```html
 <p>
-  <em>Ser</em> o <em>no ser</em>. Ésa es es la cuestión.   
+  <em>Ser</em> o <em>no ser</em>. Esa es es la cuestión.   
 </p>
 ```
 
