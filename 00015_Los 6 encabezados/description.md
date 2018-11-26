@@ -1,6 +1,6 @@
 ¿Te acordás del `h1`? Bueno, [volvió en forma de fichas](https://www.youtube.com/watch?v=mPpMLR5z3M0). :stuck_out_tongue_closed_eyes:
 
-En realidad no existe un sólo encabezado sino que contamos con 6 _niveles_: `h1` es el que denota más jerarquía y `h6` el de menos. _"¿Por qué tantos?" :astonished:_ Porque una página puede tener múltiples encabezados con distinta relevancia cada uno.
+En realidad no existe un sólo encabezado sino que contamos con 6 _niveles_: `h1` es el que denota más jerarquía y `h6` el de menos. _¿Por qué tantos? :astonished:_ Porque una página puede tener múltiples encabezados con distinta relevancia cada uno.
 	
 > ¿No nos creés? ¡Enviá el siguiente código!
 >
