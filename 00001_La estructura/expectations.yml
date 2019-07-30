@@ -1,8 +1,11 @@
 ---
 expectations:
-- binding: "*"
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
   inspection: DeclaresTag:html
-- binding: html
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: html
   inspection: DeclaresTag:head
-- binding: html
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: html
   inspection: DeclaresTag:body

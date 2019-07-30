@@ -1,4 +1,5 @@
 ---
 expectations:
-- binding: html/head
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: html/head
   inspection: DeclaresTag:title

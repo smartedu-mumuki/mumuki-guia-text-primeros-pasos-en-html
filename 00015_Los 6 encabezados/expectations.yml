@@ -1,10 +1,14 @@
 ---
 expectations:
-- binding: body
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: body
   inspection: DeclaresTag:h1
-- binding: body
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: body
   inspection: DeclaresTag:h2
-- binding: body
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: body
   inspection: DeclaresTag:h3
-- binding: body
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: body
   inspection: DeclaresTag:h4

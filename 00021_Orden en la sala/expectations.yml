@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: html/body
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: html/body
   inspection: DeclaresTag:ol
-- binding: html/body/ol
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: html/body/ol
   inspection: DeclaresTag:li

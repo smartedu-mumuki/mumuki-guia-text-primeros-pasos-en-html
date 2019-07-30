@@ -1,14 +1,20 @@
 ---
 expectations:
-- binding: body
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: body
   inspection: DeclaresTag:h3
-- binding: body
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: body
   inspection: DeclaresTag:p
-- binding: body
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: body
   inspection: DeclaresTag:ul
-- binding: body/ul
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: body/ul
   inspection: DeclaresTag:li
-- binding: body
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: body
   inspection: DeclaresTag:a
-- binding: body
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: body
   inspection: DeclaresTag:button
