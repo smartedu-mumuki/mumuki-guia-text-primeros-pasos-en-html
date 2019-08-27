@@ -6,6 +6,6 @@ Tenemos el siguiente texto, pero lo queremos mostrar usando HTML, respetando la 
   * _José Hernandez_ debe ser un encabezado de segundo nivel;
   * los números _1_ y _2_ deben ser encabezados de tercer nivel;
   * cada una de las dos estrofas que siguen deben ser dos párrafos;
-  * y el título de la página debe ser _El Gaucho Martín Fierro_
+  * el título de la página debe ser _Literatura gauchesca_.
 
 > Agregá al texto todas las etiquetas HTML necesarias 
