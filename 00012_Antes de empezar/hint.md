@@ -1,0 +1,1 @@
+Cuando decimos que busques los elementos en la página, nos referimos en la página del ejercicio, no la página de ejemplo. 
