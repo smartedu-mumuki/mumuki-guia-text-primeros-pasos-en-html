@@ -1,12 +1,1 @@
-/*<output#*//*#output>*/
-/*<tests#*/it("Hay una etiqueta title dentro del head", () => {
-  document.querySelector("head title").should.exist;
-})
-
-it("El title dice 'Mi primera página'", () => {
-  document.querySelector("title").should.have.trimmed.text('Mi primera página');
-})
-
-/*#tests>*/
-/*<options#*/output_ignore_scripts: true
-output_ignore_styles: true/*#options>*/
+{"output"=>"", "tests"=>"it(\"Hay una etiqueta title dentro del head\", () => {\n  document.querySelector(\"head title\").should.exist;\n})\n\nit(\"El title dice 'Mi primera página'\", () => {\n  document.querySelector(\"title\").should.have.trimmed.text('Mi primera página');\n})\n\n", "options"=>"output_ignore_scripts: true\noutput_ignore_styles: true"}
