@@ -1,21 +1,6 @@
 ---
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: html/body
-  inspection: DeclaresTag:h1
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: html/body
-  inspection: DeclaresTag:h2
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: html/body
-  inspection: DeclaresTag:h3
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: html/body
-  inspection: DeclaresTag:p
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: html/head
-  inspection: DeclaresTag:title
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
   inspection: DeclaresTag:html
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
