@@ -16,6 +16,10 @@ it("El título de la página es Literatura gauchesca", () => {
   document.querySelector("title").should.have.trimmed.text("Literatura gauchesca");
 })
 
+it("Hay dos párrafos", () => {
+  document.querySelectorAll("p").length.should.eql(2);
+})
+
 /*it("El primer párrafo se corresponde con la primera estrofa", () => {
   document.querySelectorAll("p")[0].should.have.trimmed.text("Aquí me pongo a cantar\n    Al compás de la vigüela,\n    Que el hombre que lo desvela\n    Una pena extraordinaria\n    Como la ave solitaria\n    Con el cantar se consuela.");
 })
