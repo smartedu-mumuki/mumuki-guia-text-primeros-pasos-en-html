@@ -3,6 +3,3 @@ expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: html/body
   inspection: DeclaresTag:p
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: html/body
-  inspection: DeclaresTag:code
