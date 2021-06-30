@@ -15,7 +15,7 @@ it("El segundo párrafo dice 'A la vuelta, contó. Dijo que había contemplado, 
 
 it("El tercer párrafo dice '- El mundo es eso -reveló-. Un montón de gente, un mar de fueguitos.", () => {
   let tercerParrafo = document.querySelectorAll("p")[2].textContent;
-  tercerParrafo.replace(/\s/g, '').should.eql(" '-Elmundoeseso-reveló-.Unmontóndegente,unmardefueguitos.", `Se esperaba que el texto del segundo párrafo sea \n '- El mundo es eso -reveló-. Un montón de gente, un mar de fueguitos. '\n pero fue \n${tercerParrafo}`);
+  tercerParrafo.replace(/\s/g, '').should.eql("-Elmundoeseso-reveló-.Unmontóndegente,unmardefueguitos.", `Se esperaba que el texto del segundo párrafo sea \n '- El mundo es eso -reveló-. Un montón de gente, un mar de fueguitos. '\n pero fue \n${tercerParrafo}`);
 })
 /*
 it("El tercer párrafo dice '- El mundo es eso -reveló-. Un montón de gente, un mar de fueguitos. ", () => {
