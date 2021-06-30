@@ -13,5 +13,5 @@ Conozcamos a la etiqueta `code`:
 > Veamos si se entiende: agregá justo abajo del párrafo un componente de código con el siguiente contenido.
 > 
 > ```javascript
-> var codigo = "Soy un code";
+> let codigo = "Soy un code";
 > ```
