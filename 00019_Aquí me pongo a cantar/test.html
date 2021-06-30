@@ -22,11 +22,13 @@ it("El primer párrafo se corresponde con la primera estrofa", () => {
   primerParrafo.replace(/\s/g, '').should.eql("AquímepongoacantarAlcompásdelavigüela,QueelhombrequelodesvelaUnapenaextraordinariaComolaavesolitariaConelcantarseconsuela.", `Se esperaba que el texto del párrafo sea \n Aquí me pongo a cantar\n    Al compás de la vigüela,\n    Que el hombre que lo desvela\n    Una pena extraordinaria\n    Como la ave solitaria\n    Con el cantar se consuela.\n pero fue \n${primerParrafo}`);
 })
 
-/*
-it("El primer párrafo se corresponde con la primera estrofa", () => {
-  document.querySelectorAll("p")[0].should.have.trimmed.text("Aquí me pongo a cantar\n    Al compás de la vigüela,\n    Que el hombre que lo desvela\n    Una pena extraordinaria\n    Como la ave solitaria\n    Con el cantar se consuela.");
+it("El segundo párrafo se corresponde con la segunda estrofa", () => {
+  let segundoParrafo = document.querySelectorAll("p")[1].textContent;
+  
+  segundoParrafo.replace(/\s/g, '').should.eql("PidoalosSantosdelCieloQueayudenmipensamiento;LespidoenestemomentoQuevoyacantarmihistoriaMerefresquenlamemoriaYaclarenmientendimiento.", `Se esperaba que el texto del párrafo sea \n Pido a los Santos del Cielo\n    Que ayuden mi pensamiento;\n    Les pido en este momento\n    Que voy a cantar mi historia\n    Me refresquen la memoria\n    Y aclaren mi entendimiento.\n pero fue \n${segundoParrafo}`);
 })
 
+/*
 it("El segundo párrafo se corresponde con la segunda estrofa", () => {
   document.querySelectorAll("p")[1].should.have.trimmed.text("Pido a los Santos del Cielo\n    Que ayuden mi pensamiento;\n    Les pido en este momento\n    Que voy a cantar mi historia\n    Me refresquen la memoria\n    Y aclaren mi entendimiento.");
 })*//*#tests>*/
