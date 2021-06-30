@@ -6,7 +6,7 @@
 it("El parráfo dice 'Un párrafo como este que estás leyendo ahora'", () => {
   let textoDelParrafo = document.querySelector("p").textContent;
   
-  textoDelParrafo.replace(/\s/g, '').should.eql("Unpárrafocomoestequeestásleyendoahora", `Se esperaba que el texto del párrafo sea 'Un párrafo como este\n que estás leyendo ahora' pero fue '${textoDelParrafo}'`);
+  textoDelParrafo.replace(/\s/g, '').should.eql("Unpárrafocomoestequeestásleyendoahora", `Se esperaba que el texto del párrafo sea \n 'Un párrafo como este\n que estás leyendo ahora'\n pero fue \n'${textoDelParrafo}'`);
 })
 
 it("El botón dice 'Un botón'", () => {
