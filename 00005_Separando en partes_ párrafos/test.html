@@ -8,10 +8,15 @@ it("El primer párrafo dice 'Un hombre del pueblo de Neguá, en la costa de Colo
   primerParrafo.replace(/\s/g, '').should.eql("UnhombredelpueblodeNeguá,enlacostadeColombia,pudosubiralaltocielo.", `Se esperaba que el texto del primer párrafo sea \n 'Un hombre del pueblo de Neguá, en la costa de Colombia, pudo subir al alto cielo.'\n pero fue \n${primerParrafo}`);
 })
 
+it("El segundo párrafo dice 'A la vuelta, contó. Dijo que había contemplado, desde allá arriba, la vida humana. Y dijo que somos un mar de fueguitos.", () => {
+  let segundoParrafo = document.querySelectorAll("p")[1].textContent;
+  segundoParrafo.replace(/\s/g, '').should.eql("Alavuelta,contó.Dijoquehabíacontemplado,desdealláarriba,lavidahumana.Ydijoquesomosunmardefueguitos.'", `Se esperaba que el texto del segundo párrafo sea \n 'A la vuelta, contó. Dijo que había contemplado, desde allá arriba, la vida humana. Y dijo que somos un mar de fueguitos.'\n pero fue \n${primerParrafo}`);
+})
 /*
 it("El segundo párrafo dice 'A la vuelta, contó. Dijo que había contemplado, desde allá arriba, la vida humana. Y dijo que somos un mar de fueguitos.", () => {
   document.querySelectorAll("p")[1].should.have.trimmed.text('A la vuelta, contó. Dijo que había contemplado, desde allá arriba, la vida humana. Y dijo que somos un mar de fueguitos.');
 })
+
 
 it("El tercer párrafo dice '- El mundo es eso -reveló-. Un montón de gente, un mar de fueguitos.", () => {
   document.querySelectorAll("p")[2].should.have.trimmed.text('- El mundo es eso -reveló-. Un montón de gente, un mar de fueguitos.');
