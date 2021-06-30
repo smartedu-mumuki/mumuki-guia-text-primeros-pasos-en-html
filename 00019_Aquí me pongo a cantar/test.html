@@ -16,6 +16,12 @@ it("El título de la página es Literatura gauchesca", () => {
   document.querySelector("title").should.have.trimmed.text("Literatura gauchesca");
 })
 
+it("El primer párrafo se corresponde con la primera estrofa", () => {
+  let primerParrafo = document.querySelectorAll("p")[0].textContent;
+  
+  primerParrafo.replace(/\s/g, '').should.eql("AquímepongoacantarAlcompásdelavigüela,QueelhombrequelodesvelaUnapenaextraordinariaComolaavesolitariaConelcantarseconsuela.", `Se esperaba que el texto del párrafo sea \n Aquí me pongo a cantar\n    Al compás de la vigüela,\n    Que el hombre que lo desvela\n    Una pena extraordinaria\n    Como la ave solitaria\n    Con el cantar se consuela.\n pero fue \n${primerParrafo}`);
+})
+
 /*
 it("El primer párrafo se corresponde con la primera estrofa", () => {
   document.querySelectorAll("p")[0].should.have.trimmed.text("Aquí me pongo a cantar\n    Al compás de la vigüela,\n    Que el hombre que lo desvela\n    Una pena extraordinaria\n    Como la ave solitaria\n    Con el cantar se consuela.");
