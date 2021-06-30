@@ -5,7 +5,7 @@
 
 it("El primer párrafo dice 'Un hombre del pueblo de Neguá, en la costa de Colombia, pudo subir al alto cielo.''", () => {
   let primerParrafo = document.querySelectorAll("p")[0].textContent;
-  primerParrafo.replace(/\s/g, '').should.eql("UnhombredelpueblodeNeguá,enlacostadeColombia,pudosubiralaltocielo.", `Se esperaba que el texto del primer párrafo sea \n 'Un hombre del pueblo de Neguá, en la costa de Colombia, pudo subir al alto cielo.'\n pero fue \n${textoDelParrafo}`);
+  primerParrafo.replace(/\s/g, '').should.eql("UnhombredelpueblodeNeguá,enlacostadeColombia,pudosubiralaltocielo.", `Se esperaba que el texto del primer párrafo sea \n 'Un hombre del pueblo de Neguá, en la costa de Colombia, pudo subir al alto cielo.'\n pero fue \n${primerParrafo}`);
 })
 
 /*
