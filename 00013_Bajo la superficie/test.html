@@ -4,7 +4,8 @@
 })
 
 it("El parráfo dice 'Un párrafo como este que estás leyendo ahora'", () => {
-  document.querySelector("p").should.have.trimmed.text("Un párrafo como este   \n  que estás leyendo ahora");
+  let textoDelParrafo = document.querySelector("p").textContent.replace(/\s/g, '');
+  textoDelParrafo.should.eql("Unpárrafocomoestequeestásleyendoahora");
 })
 
 it("El botón dice 'Un botón'", () => {
