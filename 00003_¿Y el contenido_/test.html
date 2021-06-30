@@ -2,7 +2,7 @@
 /*<tests#*/it("Dentro del body está el texto ", () => {
   let contenidoDelBody= document.querySelector('body').textContent;
   
-  contenidoDelBody.replace(/\s/g, '').should.eql('El mundoUnhombredelpueblodeNeguá,enlacostadeColombia,pudo subiralaltocielo.Alavuelta,contó.Dijoquehabíacontemplado,desdealláarriba,lavidahumana.Ydijoquesomosunmardefueguitos.-Elmundoeseso-reveló-.Unmontóndegente,unmardefueguitos.', `Se esperaba que el texto del párrafo sea \n 'El mundo\n      Un hombre del pueblo de Neguá, en la costa de Colombia, pudo subir al alto cielo.\n      A la vuelta, contó. Dijo que había contemplado, desde allá arriba, la vida humana. Y dijo que somos un mar de fueguitos.\n      - El mundo es eso -reveló-. Un montón de gente, un mar de fueguitos.' pero fue \n${contenidoDelBody} `);
+  contenidoDelBody.replace(/\s/g, '').should.eql('ElmundoUnhombredelpueblodeNeguá,enlacostadeColombia,pudosubiralaltocielo.Alavuelta,contó.Dijoquehabíacontemplado,desdealláarriba,lavidahumana.Ydijoquesomosunmardefueguitos.-Elmundoeseso-reveló-.Unmontóndegente,unmardefueguitos.', `Se esperaba que el texto del párrafo sea \n 'El mundo\n      Un hombre del pueblo de Neguá, en la costa de Colombia, pudo subir al alto cielo.\n      A la vuelta, contó. Dijo que había contemplado, desde allá arriba, la vida humana. Y dijo que somos un mar de fueguitos.\n      - El mundo es eso -reveló-. Un montón de gente, un mar de fueguitos.' pero fue \n${contenidoDelBody} `);
 })
 /*#tests>*/
 /*<options#*/output_ignore_scripts: true
