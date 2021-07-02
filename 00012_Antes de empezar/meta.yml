@@ -16,6 +16,6 @@ choices:
   value: '... _"Antes de empezar"_ es un link;'
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "... hay un link a la página principal de Mumuki."
+  value: "... hay un link al capítulo _Interfaces de usuario_."
   checked: true
 name: Antes de empezar
