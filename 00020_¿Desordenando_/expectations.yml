@@ -1,8 +1,0 @@
----
-expectations:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: html/body
-  inspection: DeclaresTag:ul
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: html/body/ul
-  inspection: DeclaresTag:li
