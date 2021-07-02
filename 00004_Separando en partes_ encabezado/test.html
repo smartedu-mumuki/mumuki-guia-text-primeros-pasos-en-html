@@ -1,7 +1,6 @@
 /*<output#*//*#output>*/
 /*<tests#*/it("Hay una etiqueta h1 que dice 'El mundo'", () => {
-  let contenidoH1 = document.querySelector("h1").textContent;
-  'El mundo'.should.eql(contenidoH1, `Se esperaba que el h1 diga 'El mundo' pero dice ${contenidoH1}`);
+  document.querySelector("h1").should.have.trimmed.text('El mundo');
 })/*#tests>*/
 /*<options#*/output_ignore_scripts: true
 output_ignore_styles: true/*#options>*/
