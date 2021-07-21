@@ -1,6 +1,6 @@
 /*<output#*//*#output>*/
 /*<tests#*/it("Hay un tag html", () => {
-  document.querySelector("html").should.exist;
+  document.getElementsByTagName("html")[0].should.exist;
 })
 
 it("Hay un tag head", () => {
